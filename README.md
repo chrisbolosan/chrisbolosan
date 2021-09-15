@@ -38,6 +38,6 @@ ABOUT ME 👋
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀:
 
 - **Version Control**: Git, GitHub
-- **Unit Testing**: Jasmine, Jest, Mocha
+<!-- - **Unit Testing**: Jasmine, Jest, Mocha -->
 
 If you are interested in reaching out with any software engineering roles, email me at cbolosan@gmail.com.
