@@ -4,7 +4,7 @@ ABOUT ME 👋
 - 👩🏻‍💻 ︱ My name is Chris Bolosan and I'm a Fullstack Software Engineer.
 - 👩🏻‍🎓 ︱ I am a graduate from Fullstack Academy.
 - :computer: ︱ Before my career transition software engineering, I was a DBA and IT Support. 
-- ⚡ | Fun fact I love martial arts and anything outdoors! My favorite places to visit is Hawaii and Thailand!
+- ⚡ | Fun fact I love to BBQ southern style, martial arts, and do anything outdoors! My favorite places to visit is Hawaii and Thailand!
 
 
 🙌🏼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 & 𝗩𝗜𝗦𝗜𝗢𝗡
