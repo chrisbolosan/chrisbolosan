@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://svg-banners.vercel.app/api?type=glitch&text1=howdy👋&width=800&height=400" align="center" style="width: 75%" />
+<img  src="https://svg-banners.vercel.app/api?type=luminance&text1=howdy👋&width=800&height=400" align="center" style="width: 75%" />
 </div>
 
 ABOUT ME
