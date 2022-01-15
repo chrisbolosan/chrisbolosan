@@ -41,3 +41,11 @@ ABOUT ME 👋
 <!-- - **Unit Testing**: Jasmine, Jest, Mocha -->
 
 If you are interested in reaching out with any software engineering roles, email me at cbolosan@gmail.com.
+
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisbolosan&theme=midnight-purple&show_icons=true)](https://github.com/chrisbolosan/github-readme-stats)
+<br/>
+
+
+
+
