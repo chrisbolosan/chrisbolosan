@@ -1,11 +1,15 @@
-# Howdy
+<div align="center">
+<img  src="https://svg-banners.vercel.app/api?type=glitch&text1=howdy👋&width=800&height=400" align="center" style="width: 75%" />
+</div>
 
-ABOUT ME 👋
+ABOUT ME
 - 👩🏻‍💻 ︱ My name is Chris Bolosan and I'm a Fullstack Software Engineer.
 - 👩🏻‍🎓 ︱ I am a graduate from Fullstack Academy.
-- :computer: ︱ Before my career transition software engineering, I was a DBA and IT Support. 
+- :computer: ︱ Before my career transition into Full Stack Software Engineering, I was a fulltime DBA and IT Support. 
 - ⚡ | Fun fact I love to BBQ southern style, martial arts, and do anything outdoors! My favorite places to visit is Hawaii and Thailand!
 
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisbolosan&theme=midnight-purple&show_icons=true&custom_title=Chris'+Cool+Stats)](https://github.com/chrisbolosan/github-readme-stats)
+<br/>
 
 🙌🏼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 & 𝗩𝗜𝗦𝗜𝗢𝗡
 
@@ -42,11 +46,11 @@ ABOUT ME 👋
 
 If you are interested in reaching out with any software engineering roles, email me at cbolosan@gmail.com.
 
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisbolosan&theme=midnight-purple&show_icons=true)](https://github.com/chrisbolosan/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-chrisbolosan&color=blueviolet&style=plastic)
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-chrisbolosan&color=blueviolet&style=plastic)
+
+
 
 
 
