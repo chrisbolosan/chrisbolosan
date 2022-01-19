@@ -47,7 +47,7 @@ ABOUT ME
 If you are interested in reaching out with any software engineering roles, email me at cbolosan@gmail.com.
 
 ![](https://komarev.com/ghpvc/?username=your-chrisbolosan&color=blueviolet&style=plastic)
-<br/>
+
 
 
 
