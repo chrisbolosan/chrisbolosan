@@ -37,7 +37,7 @@ ABOUT ME
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
 - **Cloud Providers**: Heroku
-- **Cloud Services**: MongoDB Atlas, Netlify
+- **Cloud Services**: MongoDB Atlas, Netlify, Auth0
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀:
 
