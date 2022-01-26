@@ -5,7 +5,7 @@
 ABOUT ME
 - 👩🏻‍💻 ︱ My name is Chris Bolosan and I'm a Fullstack Software Engineer.
 - 👩🏻‍🎓 ︱ I am a graduate from Fullstack Academy.
-- :computer: ︱ Before my career transition into Full Stack Software Engineering, I was a fulltime DBA and IT Support. 
+- :computer: ︱ Before my transitioning into Full Stack Software Engineering, I was a fulltime DBA and IT Support. 
 - ⚡ | Fun fact I love to BBQ southern style, martial arts, and do anything outdoors! My favorite places to visit is Hawaii and Thailand!
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisbolosan&theme=midnight-purple&show_icons=true&custom_title=Chris'+Cool+Stats)](https://github.com/chrisbolosan/github-readme-stats)
