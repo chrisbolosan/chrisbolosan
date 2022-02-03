@@ -32,7 +32,7 @@ ABOUT ME
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:
 
 - **Datastore**: SQL, PostgreSQL, Sequelize, MongoDB
-- **Web Framework**: Express, REST APIs
+- **Web Framework**: Express, REST APIs, Apollo GraphQL
 
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
