@@ -27,7 +27,7 @@ ABOUT ME
 
 - **Web Development**: React, Redux, HTML
 - **Mobile Development**: React-Native, Expo, Android Studio, Xcode
-- **Styling**: Sass, Scss, Bootstrap, Material-UI, Styled Components, CSS, React Native Paper
+- **Styling**: Sass, Scss, Tailwind CSS, Bootstrap, Material-UI, Styled Components, CSS, React Native Paper
 
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:
 
