@@ -11,31 +11,29 @@ ABOUT ME
 
 🙌🏼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 & 𝗩𝗜𝗦𝗜𝗢𝗡
 
- I love being part of a company where I can not only help the overall business, but also allows me to grow my skills and experience as well. Coding was always something I wanted to make happen prior to FullStack and through my progressive continual growth began to fall more in love with the fact that I can be creative and create applications that reach out to people. I look forward to exploring different avenues of full stack roles where I can be part of a company that provides mentorship, and allows me to create products that net’s a positive impact in the industry.
-
-
+ I love being part of a company where I can not only help the overall business, but also allows me to grow my skills and experience as well. Coding was always something I wanted to make happen prior to FullStack and through my progressive continual growth began to fall more in love with the fact that I can be creative and create applications that reach out to people.
+ 
 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:
 
-- **Weakly-Typed**: JavaScript, Node.js
+- **Weakly-Typed**: JavaScript, Node.js, Python, PHP
 - **Strongly-Typed**: TypeScript
 
 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
 
 - **Web Development**: React, Redux, HTML
-- **Mobile Development**: React-Native, Expo, Android Studio, Xcode
-- **Styling**: Sass, Scss, Tailwind CSS, Bootstrap, Material-UI, Styled Components, CSS, React Native Paper
+- **Mobile Development**: React-Native, Android Studio, Xcode
+- **Styling**: Sass, Scss, Tailwind CSS, Bootstrap, Material-UI, Styled Components, CSS
 
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:
 
-- **Datastore**: SQL, PostgreSQL, Sequelize, MongoDB
+- **Datastore**: SQL, mySQL, PostgreSQL, Sequelize, MongoDB
 - **Web Framework**: Express, REST APIs, Apollo GraphQL
 
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
-- **Cloud Providers**: Heroku
-- **Cloud Services**: MongoDB Atlas, Netlify, Auth0
+- **Cloud Services**:  Netlify, Vercel, MongoDB Atlas, Heroku
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀:
 
