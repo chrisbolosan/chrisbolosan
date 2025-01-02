@@ -33,7 +33,7 @@ ABOUT ME
 
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
-- **Cloud Services**:  Netlify, Vercel, MongoDB Atlas, Heroku
+- **Cloud Services**:  GCP, Netlify, Vercel, MongoDB Atlas, Heroku
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀:
 
