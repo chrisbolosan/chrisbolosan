@@ -3,7 +3,7 @@
 </div>
 
 ABOUT ME
-- 👩🏻‍💻 ︱ My name is Chris Bolosan and I'm a Fullstack Software Engineer.
+- 👩🏻‍💻 ︱ My name is Chris Bolosan and I'm a Software Engineer.
 - ⚡ | Fun fact I love to BBQ southern style, martial arts, and do anything outdoors! My favorite places to visit is Hawaii and Thailand!
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisbolosan&theme=midnight-purple&show_icons=true&custom_title=Chris'+Cool+Stats)](https://github.com/chrisbolosan/github-readme-stats)
@@ -22,7 +22,7 @@ ABOUT ME
 
 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
 
-- **Web Development**: React, Redux, HTML
+- **Web Development**: Next.JS, React, Redux, HTML
 - **Mobile Development**: React-Native, Android Studio, Xcode
 - **Styling**: Sass, Scss, Tailwind CSS, Bootstrap, Material-UI, Styled Components, CSS
 
